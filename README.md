@@ -147,7 +147,8 @@ git push --tags
 
 #git 发布
 pushPodRepo
-
+```
 
 #### 可能脚本写的不太好，如果有大神，请指导下
+简书地址：https://www.jianshu.com/p/b504fe40fed1
 
